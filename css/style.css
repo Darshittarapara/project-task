@@ -201,10 +201,6 @@ border-top-right-radius: 15px;
         margin:0px -10px;
         padding: 0px;
 }
-.container .offer .col-xl-4:hover {
-        transform: scale(1.1);
-        margin: 0px 26px;
-}
 
 
 .asked-block{
@@ -302,10 +298,7 @@ footer .col-xl-3 form input[type='button']:hover {
         right: -300px;
         width: 100vw;
 }
-.container .offer .col-xl-4:hover {
-        transform: scale(1.1);
-        margin: 28px 0px;
-}
+
 .container-fiuld header .logo-block #nav .show {
         position: absolute;
         right: -20px;
@@ -434,9 +427,7 @@ footer .col-12{
                 margin: 30px;
                 width: 560px;
         }
-.container .offer .col-xl-4:hover {
-                margin: 30px;
-        }
+
  .section p {
                 padding: 10px 10px;
                 width: 100%;
