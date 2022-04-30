@@ -469,7 +469,9 @@ footer .col-12{
  .container .offer .col-xl-4 #first-block-color,   .container .offer .col-xl-4 #second-block-color,   .container .offer .col-xl-4 #last-block-color {
                   width: 475px;
         }
-
+.asked-block{
+        height:725px;
+        }
 .asked-block .question-block .col-xl-12 {
         margin: 16px 0px;
         background: white;
