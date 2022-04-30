@@ -471,6 +471,8 @@ footer .col-12{
         }
 .asked-block{
         height:725px;
+        
+        overflow:auto;
         }
 .asked-block .question-block .col-xl-12 {
         margin: 16px 0px;
