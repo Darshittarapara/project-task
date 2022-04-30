@@ -357,6 +357,7 @@ footer .col-xl-3 form input[type='button']:hover {
         margin-left:30px;
         color: white;
         text-transform: uppercase;
+        display:block;
         font-size: 19px;
         text-align: center;
 }
