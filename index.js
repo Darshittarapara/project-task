@@ -39,8 +39,7 @@ menu.addEventListener("click",display)
 document.getElementById("close").addEventListener("click",display);
 
 
-//form validation//
 
-const form=()=>{
-    alert('Thank you for visting')
+const welcome=()=>{
+    alert('Welcome Foodie lover');
 }
