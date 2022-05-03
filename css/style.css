@@ -240,7 +240,8 @@ font-size: 36px;
         background: white;
         border-radius: 15px;
         height: 65px;
-       
+        display: flex;
+        justify-content: space-between;
         padding: 14px 10px;
 }
 .asked-block .question-block .col-xl-12 i {
@@ -251,7 +252,7 @@ font-size: 36px;
 }
 
 .asked-block .question-block .col-xl-12 h4 {
-        float: left;
+   
         font-size: 22px;
 }
 
@@ -443,20 +444,22 @@ footer .col-12 ul li {
         margin: 10px ;
         height:auto ;
         text-align: left;
+        display: flex;
+        justify-content: space-between;
 }
 .asked-block .question-block .col-12 h4 {
         font-size: 16px;
+        margin-right: 10px;
+        /* width: 75%; */
  
 }
-.asked-block .question-block .col-12 i{
-        margin-top: -45px;
-}
+
 footer {
          
          height: auto;
          overflow: hidden;
          position: relative;
-        padding: 10px 30px;
+        padding: 10px 10px;
 }
 footer .col-12{
         margin: 17px 0px;
