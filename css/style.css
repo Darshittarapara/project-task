@@ -451,7 +451,10 @@ footer .col-12{
 }
 
 footer .col-12  span {
-        margin: 5px 5px;
+        margin: 5px 0px;
+}
+ footer .col-12 .contain-block .adderess p{
+        margin-left: 5px;
 }
 footer .col-12 .contain-block .adderess {
 position: relative;
