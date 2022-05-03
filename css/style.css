@@ -278,6 +278,7 @@ footer .col-xl-3 form input {
 }
 footer .col-12 .contain-block .adderess {
        display: flex;
+        justify-content: space-between;
 }  
 footer .col-12 .contain-block .adderess p{
         margin: 0px 5px;
