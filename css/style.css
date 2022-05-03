@@ -458,8 +458,8 @@ footer {
          
          height: auto;
          overflow: hidden;
-         position: relative;
-        padding: 10px 10px;
+         
+        padding: 10px 20px;
 }
 footer .col-12{
         margin: 17px 0px;
